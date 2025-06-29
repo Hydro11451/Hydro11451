@@ -13,7 +13,7 @@
 
 正在忙活的项目：
 - ~~[InkCanvasForClass Community Edition](https://github.com/CJKmkp/ICC-CE)~~
-> 由于个人原因，暂离此项目。恢复时间待定。
+> 由于个人原因，暂离此项目。恢复时间待定。详情请见[项目issue#68](https://github.com/InkCanvasForClass/community/issues/68)
 
 <!--
 **Hydro11451/Hydro11451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
