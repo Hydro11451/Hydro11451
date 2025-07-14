@@ -1,6 +1,7 @@
 <!--## Hi there 👋-->
-
+<!--
 ~~**我们的README正在进行《伟大的重构》，新readme COMING S∞N！（确信）**~~（我：重构你*啊，还没开始就出事了）
+-->
 
 # Hi~👋
 我是 Hydrogen， 一个闲着没事的个人学生开发者。
@@ -11,9 +12,9 @@
 - 写代码
 -->
 
-正在忙活的项目：
+以前忙活的项目：
 - ~~[InkCanvasForClass Community Edition](https://github.com/CJKmkp/ICC-CE)~~
-> 由于个人原因，暂离此项目。恢复时间待定。详情请见[项目issue#68](https://github.com/InkCanvasForClass/community/issues/68)
+> 由于个人原因，已离开此项目管理层。
 
 <!--
 **Hydro11451/Hydro11451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
